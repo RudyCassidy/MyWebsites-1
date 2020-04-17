@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Max Lodkin Resume
+</title>
+        </head>
+        <style>
+            body {
+                background: orange; 
+            }
+            h1 {
+                color: blue;
+            }
+            h2 {
+                color: purple;
+            }
+        </style>
+        <h1>Max Lodkin's Resume</h1>
+        <img src="https://www.kasandbox.org/programming-images/landscapes/beach-in-hawaii.png">
+        <h2>Work Experience</h2>
+        I am a very hard working man with plenty of work experience. I am going to be a CIT at Camp RSM this summer and I have gone to this camp countless amount of times. I also am a cashier at Brothers Marketplace in Medfield, Massachusetts. I am also a FORMER cashier at another grocery store called Shaw's which is also in Medfield, Massachusetts. 
+        <h2>School</h2>
+        In school I average with an A in all of my classes and I was an honors math student. I have taken numerous classes such as
+        <li>Intro to Computer Science</li>
+        <li>Graphic Design</li>
+        <li>Cullinary Arts</li>
+        <h2>Extra Curricular Activities</h2>
+        In terms of sports, I am a <strong>varsity</strong> swimmer, who has qualified for state championchips for the Medfield High School. I am also a volleyball player for the school team. Outside of school, I am a certified lifeguard who is fully certified to save lives anywhere.
+        
+        </html>
